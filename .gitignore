@@ -36,6 +36,3 @@ yarn-error.log*
 next-env.d.ts
 
 /.idea
-
-pnpm install --no-frozen-lockfile
-pnpm-lock.yaml
